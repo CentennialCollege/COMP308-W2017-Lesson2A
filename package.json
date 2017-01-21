@@ -1,0 +1,25 @@
+{
+  "name": "comp308-w2017-lesson2a",
+  "version": "1.0.0",
+  "description": "Connect Server Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentennialCollege/COMP308-W2017-Lesson2A.git"
+  },
+  "keywords": [
+    "Connect",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Tom Tsiliopoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CentennialCollege/COMP308-W2017-Lesson2A/issues"
+  },
+  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson2A#readme"
+}
